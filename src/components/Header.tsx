@@ -1,4 +1,3 @@
-import React from "react";
 import Drawer from "./Drawer";
 import ThemeToggler from "./ThemeToggler";
 import { Link } from "react-router-dom";
